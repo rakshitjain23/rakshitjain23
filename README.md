@@ -1,6 +1,6 @@
 <!-- Banner or GIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F59E&vCenter=true&multiline=true&width=800&height=70&lines=Hey+there%2C+I'm+Rakshit+Jain+%F0%9F%91%8B+Welcome+to+my+GitHub!" alt="Welcome banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F59E&vCenter=true&multiline=true&width=800&height=70&lines=Hey+there%2C+I'm+Rakshit+Jain+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" />
 </p>
 
 <p align="center">
@@ -64,11 +64,19 @@
 
 ---
 
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakshitjain23&theme=github_dark" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakshitjain23&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshitjain23&theme=radical" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rakshitjain23&show_icons=true&theme=github_dark" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshitjain23&theme=github_dark" alt="GitHub Streak" height="160"/>
 </p>
 
 ---
