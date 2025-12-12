@@ -42,9 +42,14 @@ I’m a full-stack engineer specialized in building **scalable backends** and **
     <td width="5%" valign="top"></td> 
     <td width="40%" valign="top">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=rakshitjain23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Rakshit's Stats" />
-        <br/><br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshitjain23&theme=tokyonight&hide_border=true" alt="Streak" />
+        <a href="https://github.com/rakshitjain23">
+          <img src="https://github-readme-stats.vercel.app/api?username=rakshitjain23&show_icons=true&theme=tokyonight&hide_border=true" alt="Rakshit's Stats" />
+        </a>
+        <br/>
+        <br/>
+        <a href="https://github.com/rakshitjain23">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshitjain23&theme=tokyonight&hide_border=true" alt="Streak" />
+        </a>
       </div>
     </td>
   </tr>
