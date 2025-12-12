@@ -26,7 +26,7 @@
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="50%" valign="top">
+    <td width="55%" valign="top">
       
 ### 👨🏻‍💻 About Me
 I’m a full-stack engineer specialized in building **scalable backends** and **intelligent automation systems**. I bridge the gap between high-performance Python backends and sleek Next.js frontends.
@@ -39,11 +39,12 @@ I’m a full-stack engineer specialized in building **scalable backends** and **
 > *"I build systems that scale, UIs that feel smooth, and code that stays maintainable."*
 
 </td>
-    <td width="2%" valign="top"></td> <td width="48%" valign="top">
+    <td width="5%" valign="top"></td> 
+    <td width="40%" valign="top">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=rakshitjain23&show_icons=true&theme=dark&hide_border=true&title_color=0070f3&icon_color=0070f3&bg_color=0d1117" alt="Rakshit's Stats" />
-        <br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshitjain23&theme=dark&hide_border=true&stroke=0070f3&ring=0070f3&fire=0070f3&currStreakLabel=0070f3&background=0d1117" alt="Streak" />
+        <img src="https://github-readme-stats.vercel.app/api?username=rakshitjain23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Rakshit's Stats" />
+        <br/><br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshitjain23&theme=tokyonight&hide_border=true" alt="Streak" />
       </div>
     </td>
   </tr>
