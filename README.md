@@ -77,7 +77,7 @@ I’m a full-stack engineer specialized in building **scalable backends** and **
 
 | Project | Description & Tech Stack | Links |
 | :--- | :--- | :--- |
-| **TaskPilot** 🤖<br>_AI Productivity Manager_ | A distributed task automation system. Uses async workers to generate tasks via AI. <br>`FastAPI` `Celery` `Redis` `PostgreSQL` `Next.js` `DeepSeek` | [**Frontend**](https://github.com/rakshitjain23/taskpilot-frontend)<br>[**Backend**](https://github.com/rakshitjain23/taskpilot-api) |
+| **TaskPilot** 🤖<br>_AI Productivity Manager_ | A distributed task automation system. Uses async workers to generate tasks via AI. <br>`FastAPI` `Celery` `Redis` `PostgreSQL` `Next.js` `DeepSeek` | [**Frontend**](https://github.com/rakshitjain23/taskpilot-web)<br>[**Backend**](https://github.com/rakshitjain23/taskpilot-api) |
 | **Reddit Mastermind** 🧠<br>_Organic Automation_ | Generates natural, persona-based Reddit threads using LLMs with strict Zod validation.<br>`Next.js` `Supabase` `Zod` `DeepSeek API` | [**Repository**](https://github.com/rakshitjain23/reddit-mastermind) |
 | **FHIR-Fly** ⚕️<br>_Healthcare Interop_ | A transformer tool mapping Ayurveda concepts to ICD-11 standards.<br>`FastAPI` `FHIR` `Python` `Hackathon Winner` | [**Repository**](https://github.com/hacknrollers/FHIR_fly) |
 
